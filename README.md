@@ -1,6 +1,5 @@
-# coding-design-patterns
-
-- [] Sliding Window
+# Coding Design Patterns
+- [x] [Sliding Window](https://github.com/Abrar-Abdulwahed/coding-design-patterns/tree/main/Sliding%20Window)
 - [] Two Pointers or Iterators
 - [] Fast and Slow pointers
 - [] Merge Intervals
