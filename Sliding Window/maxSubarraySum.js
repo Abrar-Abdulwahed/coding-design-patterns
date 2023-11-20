@@ -1,3 +1,5 @@
+//! Find the maximum subarray sum
+
 const maxSubArraySum = (arr, window_size) => {
     if(window_size < 0 || window_size > arr.length === 0) return null;
 
@@ -14,6 +16,6 @@ const maxSubArraySum = (arr, window_size) => {
 }
 
 
-// arr
+// Example usage:
 const arr = [1, 2, 10, 3, 4, 5, 6, 7, 10];
 console.log(maxSubArraySum(arr, 3));
