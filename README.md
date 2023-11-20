@@ -8,8 +8,8 @@
 - [] Tree BFS
 - [] Tree DFS
 - [] Two heaps
--[] Subsets
--[] Modified Binary Search
--[] Top K elements
--[] K-way Merge
--[] Topological sort
+- [] Subsets
+- [] Modified Binary Search
+- [] Top K elements
+- [] K-way Merge
+- [] Topological sort
