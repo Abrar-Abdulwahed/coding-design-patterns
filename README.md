@@ -1,6 +1,5 @@
-# coding-design-patterns
-
-- [] Sliding Window
+# Coding Design Patterns
+- [x] [Sliding Window](https://github.com/Abrar-Abdulwahed/coding-design-patterns/tree/main/Sliding%20Window)
 - [] Two Pointers or Iterators
 - [] Fast and Slow pointers
 - [] Merge Intervals
@@ -9,8 +8,8 @@
 - [] Tree BFS
 - [] Tree DFS
 - [] Two heaps
--[] Subsets
--[] Modified Binary Search
--[] Top K elements
--[] K-way Merge
--[] Topological sort
+- [] Subsets
+- [] Modified Binary Search
+- [] Top K elements
+- [] K-way Merge
+- [] Topological sort
