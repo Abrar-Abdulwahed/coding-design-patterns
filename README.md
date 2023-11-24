@@ -1,4 +1,5 @@
 # Coding Design Patterns
+
 - [x] [Sliding Window](https://github.com/Abrar-Abdulwahed/coding-design-patterns/tree/main/Sliding%20Window)
 - [ ] [Two Pointers](https://github.com/Abrar-Abdulwahed/coding-design-patterns/tree/main/Two%20Pointers)
 - [] Fast and Slow pointers
@@ -13,3 +14,11 @@
 - [] Top K elements
 - [] K-way Merge
 - [] Topological sort
+
+---
+
+## How to run scripts?
+
+    - npm run build
+    - npm start -- {directory} {filename}
+        ex: npm start -- "Two Pointers" isPalindrome
