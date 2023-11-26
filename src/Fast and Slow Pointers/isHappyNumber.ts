@@ -1,3 +1,4 @@
+//! https://leetcode.com/problems/happy-number/
 const isHappy = (n: number): boolean => {
     let slow = n;
     let fast = getNext(n);
