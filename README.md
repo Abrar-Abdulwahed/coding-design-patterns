@@ -2,7 +2,7 @@
 
 - [x] [Sliding Window](https://github.com/Abrar-Abdulwahed/coding-design-patterns/tree/main/src/Sliding%20Window)
 - [ ] [Two Pointers](https://github.com/Abrar-Abdulwahed/coding-design-patterns/tree/main/src/Two%20Pointers)
-- [] Fast and Slow pointers
+- [ ] [Fast and Slow pointers](https://github.com/Abrar-Abdulwahed/coding-design-patterns/tree/main/src/Fast%20and%20Slow%20pointers)
 - [] Merge Intervals
 - [] Cyclic sort
 - [] In-place reversal of linked list
