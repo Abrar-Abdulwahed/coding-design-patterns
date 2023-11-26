@@ -1,7 +1,7 @@
 {
   "name": "coding-design-patterns",
   "version": "1.0.0",
-  "description": "- [x] [Sliding Window](https://github.com/Abrar-Abdulwahed/coding-design-patterns/tree/main/Sliding%20Window)\r - [] Two Pointers or Iterators\r - [] Fast and Slow pointers\r - [] Merge Intervals\r - [] Cyclic sort\r - [] In-place reversal of linked list\r - [] Tree BFS\r - [] Tree DFS\r - [] Two heaps\r - [] Subsets\r - [] Modified Binary Search\r - [] Top K elements\r - [] K-way Merge\r - [] Topological sort",
+  "description": "Problems on Coding Patterns",
   "main": "index.js",
   "scripts": {
     "build": "tsc",
